@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darkgaze-Tech
-- 👀 I’m interested in Software Technology
+- 👀 I’m interested in Software Technology and Data Science
 - 🌱 I’m currently learning PHP-Laravel, JS-React and Software QA
 - 💞️ I’m looking to collaborate on Software Engineering Project
 - 📫 You can reach me via email on frankyhalim42@gmail.com
